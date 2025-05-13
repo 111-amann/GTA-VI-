@@ -155,7 +155,7 @@ function App() {
                 </h1>
               </div>
               <img
-                className="absolute character sm:-bottom-[53%] -bottom-[15%] left-1/2 -translate-x-1/2 w-lg scale-[2.5] rotate-[-20deg]"
+                className="absolute character bottom-[-15%] sm:bottom-[-53%] left-1/2 -translate-x-1/2 w-lg scale-[2.5] rotate-[-20deg]"
                 src="./girlbg.png"
                 alt="bgimage"
               />
