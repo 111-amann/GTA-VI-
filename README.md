@@ -31,7 +31,7 @@ Key features include:
 ## 🎥 Demo
 
 Check out the live demo of the project:
-- https://111-amann.github.io/GTA-VI-/(#)
+- https://111-amann.github.io/GTA-VI-/
 
 ## 📦 Installation
 
@@ -66,7 +66,7 @@ To run this project locally, follow these steps:
 ## 🔗 Links
 
 - **Live Project**: https://111-amann.github.io/GTA-VI-/(#)
-- **GitHub Repository**: [GitHub Repo Link](https://github.com/111-amann/gta-vi)
+- **GitHub Repository**: (https://github.com/111-amann/gta-vi)
 
 ## 🚧 To Do
 
@@ -77,7 +77,7 @@ To run this project locally, follow these steps:
 ## 👨‍💻 Author
 
 - **Aman Sayyad**  
-  [GitHub Profile](https://github.com/111-amann)
+  (https://github.com/111-amann)
 
 ## 💬 Feedback
 
@@ -85,4 +85,4 @@ Feel free to submit issues or suggestions if you have any! I'm always open to im
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the (LICENSE) file for details.
