@@ -40,13 +40,13 @@ To run this project locally, follow these steps:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/111-amann/GTA-VI.git
+    git clone https://github.com/111-amann/GTA-VI-.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd GTA-VI
+    cd GTA-VI-
     ```
 
 3. Install the required dependencies:
@@ -66,7 +66,7 @@ To run this project locally, follow these steps:
 ## 🔗 Links
 
 - **Live Project**: https://111-amann.github.io/GTA-VI-/
-- **GitHub Repository**: (https://github.com/111-amann/GTA-VI)
+- **GitHub Repository**: (https://github.com/111-amann/GTA-VI-/)
 
 ## 🚧 To Do
 
